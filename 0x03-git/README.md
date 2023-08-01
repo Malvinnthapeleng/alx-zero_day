@@ -1,2 +1,3 @@
 my second readme file
-up_to_date
+coding is fun
+i love alx
